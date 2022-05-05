@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/copolayuki/movie_app/static/css/main.488045ff.css",
+    "main.js": "/copolayuki/movie_app/static/js/main.26cebd7b.js",
+    "index.html": "/copolayuki/movie_app/index.html",
+    "main.488045ff.css.map": "/copolayuki/movie_app/static/css/main.488045ff.css.map",
+    "main.26cebd7b.js.map": "/copolayuki/movie_app/static/js/main.26cebd7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.488045ff.css",
+    "static/js/main.26cebd7b.js"
+  ]
+}
